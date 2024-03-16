@@ -1,8 +1,8 @@
 Var:
-		C, F: Real
+   	C, F: Real
 INÍCIO
-		Leia C
-		F <-- C * 9/5 + 32
-		ESCREVA F
+   	Leia C
+	F <-- C * 9/5 + 32
+	ESCREVA F
 FIM
 
