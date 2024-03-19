@@ -1,0 +1,7 @@
+PROGRAMAC03EX4I
+VAR
+	N: INTEIRO
+INÍCIO
+	Leia N
+	Escreva N↑2 
+FIM

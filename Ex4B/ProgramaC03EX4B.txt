@@ -1,0 +1,7 @@
+VAR
+	F, C: Real
+INÍCIO
+	Leia F
+	C <-- ((F-32)*5)/9
+	ESCREVA C
+FIM
